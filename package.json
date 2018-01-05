@@ -1,5 +1,27 @@
 {
   "name": "vue-time-slot",
   "version": "0.0.1",
-  "main": "VueTimeSlot.vue"
+  "main": "VueTimeSlot.vue",
+  "description": "![alt text](vue_time_slot.png)",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nobalmohan/vue-time-slot.git"
+  },
+  "keywords": [
+    "Vue",
+    "Timeslot",
+    "Vue2"
+  ],
+  "author": "Nobal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nobalmohan/vue-time-slot/issues"
+  },
+  "homepage": "https://github.com/nobalmohan/vue-time-slot#readme"
 }

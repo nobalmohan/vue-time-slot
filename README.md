@@ -4,10 +4,6 @@
 
 A tiny Vue time slot selector component with no dependencies for your app!
 
-## Demo
-
-[Demo](http://nobal.in/vue-time-slot/)
-
 ## Installation
 
 `npm install vue-time-slot --save`
@@ -50,4 +46,4 @@ new Vue({
 
 ## License
 
-Licensed under the [MIT]() License and maintained by [Nobal](http://nobal.in/)
+Licensed under the MIT License and maintained by [Nobal](http://nobal.in/)
