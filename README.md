@@ -1,8 +1,12 @@
+![alt text](vue_time_slot.png)
+
 # Vue Time Slot
 
-A tiny timeslot selector component with no dependencies for your app!
+A tiny Vue time slot selector component with no dependencies for your app!
 
-[Demo]()
+## Demo
+
+[Demo](http://nobal.in/vue-time-slot/)
 
 ## Installation
 
@@ -36,6 +40,7 @@ new Vue({
 
 * Lightweight
 * No dependencies
+* Time and Date format
 
 ## TODO
 
@@ -45,4 +50,4 @@ new Vue({
 
 ## License
 
-Licensed under the [MIT]() License by [Nobal](http://nobal.in/)
+Licensed under the [MIT]() License and maintained by [Nobal](http://nobal.in/)
